@@ -1,0 +1,17 @@
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\bin\Debug\net6.0\UMBIT.RabbitMQ.Receiver.exe
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\bin\Debug\net6.0\UMBIT.RabbitMQ.Receiver.deps.json
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\bin\Debug\net6.0\UMBIT.RabbitMQ.Receiver.runtimeconfig.json
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\bin\Debug\net6.0\UMBIT.RabbitMQ.Receiver.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\bin\Debug\net6.0\UMBIT.RabbitMQ.Receiver.pdb
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.csproj.AssemblyReference.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.AssemblyInfoInputs.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.AssemblyInfo.cs
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.csproj.CoreCompileInputs.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.csproj.CopyComplete
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\refint\UMBIT.RabbitMQ.Receiver.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.pdb
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\UMBIT.RabbitMQ.Receiver.genruntimeconfig.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Receiver\1BIT.RabbitMQ.Receiver\obj\Debug\net6.0\ref\UMBIT.RabbitMQ.Receiver.dll
